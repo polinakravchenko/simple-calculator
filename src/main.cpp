@@ -9,6 +9,6 @@ using std::endl;
 
 int main()
 {
-	calculator::SimpleCalculator calc(12.07, 7.12);
-	cout << "RESULT: " << calc.compute(2.09) << endl;
+	calculator::SimpleCalculator calc(6.03, 10.15);
+	cout << "RESULT: " << calc.compute(5.22) << endl;
 }
